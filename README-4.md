@@ -1,3 +1,9 @@
+
+## ELMo GLoVe pytorch
+Build for Anesthesia surgery prediction
+
+
+
 ## dataset
 
 - Please first download the Bert/ELMo/GloVe pretrained weightfile from the links:
@@ -11,6 +17,9 @@ data/
     rt-polarity.pos
     rt-polarity.neg
 ```
+    
+## Acknowledgements
 
+ - https://github.com/ShomyLiu/pytorch_bert_elmo_example/
 
-
+  
